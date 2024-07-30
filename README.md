@@ -1,4 +1,4 @@
-##Secure User Authentication with MERN Stack
+## Secure User Authentication with MERN Stack
 This project demonstrates a secure user authentication system built with the MERN stack (MongoDB, Express.js, React, and Node.js). The application includes features such as user registration, login, password hashing, and JWT-based authentication, all implemented with best practices to ensure security.
 
 Table of Contents
