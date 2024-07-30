@@ -5,19 +5,15 @@ This project demonstrates a secure user authentication system built with the MER
 Features
 Tech Stack
 Installation
-Usage
-Configuration
-API Endpoints
-Testing
-Contributing
-License
+
+
 ## Features
 User Registration: Sign up with secure password hashing.
 User Login: Authenticate users using JWT tokens.
 Password Recovery: Implement secure password reset functionality.
 Protected Routes: Secure access to routes with JWT-based middleware.
 Environment Variables: Securely manage sensitive data.
-Tech Stack
+## Tech Stack
 Frontend: React.js
 Backend: Node.js with Express.js
 Database: MongoDB
