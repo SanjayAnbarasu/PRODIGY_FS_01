@@ -24,3 +24,9 @@ Environment Management: dotenv
 ## Prerequisites
 Node.js and npm (or Yarn)
 MongoDB instance (local or cloud-based)
+to open this file 
+
+run 
+
+1.npm init i
+2.nodemon src/index.js
